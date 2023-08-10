@@ -15,13 +15,13 @@
 #/license.txt
 #/readme.html
 #/wp-*.php
-$/xmlrpc.php
+#$/xmlrpc.php
 
 # Configuration
 #wp-config.php
 
 # Example themes
-/wp-content/themes/twenty*/
+#/wp-content/themes/twenty*/
 
 # Example plugin
 /wp-content/plugins/hello.php
