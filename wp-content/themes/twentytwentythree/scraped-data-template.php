@@ -22,7 +22,7 @@ function fetchGitHubData($url, $token) {
     return $response;
 }
 
-$github_token = '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'; // Replace with your GitHub token
+$github_token = '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'; // Replace with your GitHub token
 $api_url = 'https://api.github.com/users';
 $scraped_data = fetchGitHubData($api_url, $github_token);
 
